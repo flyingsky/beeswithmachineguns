@@ -1,0 +1,5 @@
+#up -s 2 -k ramon-nodejs
+report
+attack -n 100 -c 50 -u http://www.google.com
+down
+
